@@ -1,0 +1,19 @@
+{
+  "publisher": "magdapoppins",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "soft-rainbow-theme",
+        "uiTheme": "vs",
+        "path": "./themes/Soft Rainbow-color-theme.json"
+      }
+    ]
+  },
+  "displayName": "Soft Rainbow"
+}

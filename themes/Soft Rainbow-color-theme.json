@@ -1,0 +1,57 @@
+{
+    "name": "Soft Rainbow",
+    "type": "light",
+    "colors": {
+        "activityBar.background": "#E494D3",
+        "activityBar.border": "#ffa66b",
+        "activityBar.foreground": "#fff",
+        "activityBarBadge.foreground": "#B5EAD7",
+        "activityBarBadge.background": "#88BBE4"
+    },
+    "tokenColors": [
+        {
+            "name": "Italic",
+            "scope": [
+                "comment",
+            ],
+            "settings": {
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Pink",
+            "scope": ["comment"],
+            "settings": {
+                "foreground": "#E494D3"
+            }
+        },
+        {
+            "name": "Pale orange",
+            "scope": ["comment"],
+            "settings": {
+                "foreground": "#ffa66b"
+            }
+        },
+        {
+            "name": "Lime",
+            "scope": ["comment"],
+            "settings": {
+                "foreground": "#83ffd2"
+            }
+        },
+        {
+            "name": "Mint",
+            "scope": ["comment"],
+            "settings": {
+                "foreground": "#83ffd2"
+            }
+        },
+        {
+            "name": "Liliac",
+            "scope": ["comment"],
+            "settings": {
+                "foreground": "#88BBE4"
+            }
+        },
+    ]
+}
